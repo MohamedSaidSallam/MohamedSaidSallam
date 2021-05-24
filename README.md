@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./GithubReadmeHeader.gif" />
+    <img src="https://s3.gifyu.com/images/GithubReadmeHeader.gif" />
 </p>
 
 <p align="center">
