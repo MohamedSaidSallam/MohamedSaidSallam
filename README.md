@@ -11,4 +11,4 @@
         alt="Github activity" />
 </p>
 
-**Useful Links**: [LinkedIn](https://www.linkedin.com/in/mohamedsaidsallam/), [Live Projects](http://digitalphoenixx.live)
+**Useful Links**: [LinkedIn](https://www.linkedin.com/in/mohamedsaidsallam/)
