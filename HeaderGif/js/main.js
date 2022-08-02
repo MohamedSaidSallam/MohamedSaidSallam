@@ -2,7 +2,7 @@ particlesJS.load('particles-js', 'particles.json', function () {
     console.log('callback - particles.js config loaded');
 });
 const instance = new Typewriter('.typewriter', {
-    loop: true
+    loop: true,
 });
 
 instance.typeString("Hello!")
@@ -11,13 +11,10 @@ instance.typeString("Hello!")
     .typeString("I'm Mohamed Said.")
     .pauseFor(1000)
     .deleteChars(13)
-    .typeString("a Software Engineer.")
+    .typeString("a DevOps Engineer.")
     .pauseFor(1000)
-    .deleteAll()
-    .typeString('Currently<br>Web Developing.')
-    .pauseFor(1000)
-    .deleteAll()
-    .typeString('Also interested in DevOps.')
+    .deleteChars(21)
+    .typeString(' also enjoy making random automation scripts<br>and small apps.')
     .pauseFor(1000)
     .deleteAll()
     .start();
