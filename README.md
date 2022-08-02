@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.postimg.cc/gJhvW6ch/ezgif-3-4eebdc7c525d.gif" />
+    <img src="/GithubReadmeHeader.gif" />
 </p>
 
 <p align="center">
